@@ -1,0 +1,6 @@
+@TestMSIDWEB_HostAddress = http://localhost:5096
+
+GET {{TestMSIDWEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
